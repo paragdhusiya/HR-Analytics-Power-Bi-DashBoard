@@ -59,7 +59,7 @@
 
 ## **Dashboard**
 
-  [Download The File]((https://github.com/paragdhusiya/HR-Analytics-Power-Bi-DashBoard/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix)) and Open In Power BI Desktop for Interactive Viewing.
+  [Download The File](https://github.com/paragdhusiya/HR-Analytics-Power-Bi-DashBoard/blob/main/HR_DASHBOARD_PowerBI%20Project.pbix) and Open In Power BI Desktop for Interactive Viewing.
 
   [View Screenshots](https://github.com/paragdhusiya/HR-Analytics-Power-Bi-DashBoard/blob/main/PowerBI%20HR%20Dashboard.pdf) of the Dashboard in PDF format.
   
