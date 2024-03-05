@@ -63,7 +63,7 @@
 
   [View Screenshots](https://github.com/paragdhusiya/HR-Analytics-Power-Bi-DashBoard/blob/main/PowerBI%20HR%20Dashboard.pdf) of the Dashboard in PDF format.
   
-  [View Photos](https://github.com/SarangGami/HR-Analytics-Dashboard-PowerBI-PowerQuery/tree/main/Power%20BI%20HR-Dashboard%20Photos) of Dashboard and excel analysis.
+  [View Photos](https://github.com/paragdhusiya/HR-Analytics-Power-Bi-DashBoard/tree/main/Power%20BI%20HR-Dashboard%20Photos) of Dashboard and excel analysis.
   
  
 *  **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
